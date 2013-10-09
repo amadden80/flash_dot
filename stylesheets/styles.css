@@ -1,0 +1,18 @@
+
+
+
+#lilbox{
+	width: 1em;
+	height: 1em;
+	background-color: red;
+
+	left: 0px;
+	top: 0px;
+
+	position: absolute;
+}
+
+
+body{
+	background-color: lightblue;
+}
